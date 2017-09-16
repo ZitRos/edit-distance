@@ -2,7 +2,7 @@
   "name": "@zitro/edit-distance",
   "description": "A tiny optimized package which finds the Levenshtein distance (edit distance) between two words. Having two strings of length N and M, the algorithm has O(N*M) complexity and uses O(N) additional space.",
   "author": "ZitRo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "files": [
     "index.js"
